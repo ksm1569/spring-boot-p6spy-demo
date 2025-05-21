@@ -170,6 +170,11 @@ HeFormatSql(P6Spy sql,Hibernate format):
    - MySQL 8.0 이상 사용 시 `allowPublicKeyRetrieval=true` 설정 필요
    - UTF-8 문자셋 설정 필요
 
+## 스크린샷
+![데모 메인화면의 일부](https://github.com/user-attachments/assets/8def5425-e91a-497b-a061-3c7506b8f38f)
+![p6spy 콘솔의 로그](https://github.com/user-attachments/assets/e7de16dc-ff1b-434b-bc04-5ac7db59ac03)
+
+
 ## 라이선스
 
 이 프로젝트는 MIT 라이선스를 따릅니다. 
